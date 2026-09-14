@@ -1,62 +1,34 @@
-# Khaled Abbassi
+<div align="center">
 
-Computer Science Student
-Systems • Networking • Backend • Cybersecurity
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:2b0000,100:7a0000&height=220&section=header&text=KHALED%20ABBASSI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20%20%E2%80%A2%20%20NETWORKING%20%20%E2%80%A2%20%20BACKEND%20%20%E2%80%A2%20%20SECURITY&descAlignY=58&descSize=17"/>
 
----
+# ⚔️ THE WAR NEVER ENDS
 
-## About Me
+### `PUSH THE LIMITS. BREAK THE SYSTEM. UNDERSTAND WHY. BUILD IT BETTER.`
 
-I'm a Computer Science student interested in
-systems programming, networking and distributed systems.
+<br>
 
-Currently building:
+![Systems](https://img.shields.io/badge/SYSTEMS-ENGINEERING-8B0000?style=for-the-badge)
+![Networking](https://img.shields.io/badge/NETWORKING-COMBAT-550000?style=for-the-badge)
+![Security](https://img.shields.io/badge/SECURITY-DEFENSE-300000?style=for-the-badge)
+![Backend](https://img.shields.io/badge/BACKEND-INFRASTRUCTURE-111111?style=for-the-badge)
 
-- C++ MMO game
-- Rust compiler
-- Distributed load balancer
-- Production web applications
+</div>
 
 ---
 
-## Technologies
-
-### Languages
-
-- C++
-- Rust
-- Java
-- JavaScript
-- Python
-
-### Systems & Networking
-
-- Linux
-- TCP/IP
-- UDP
-- HTTP
-- Client/Server Architecture
-
----
-
-## Projects
-
-### Rust Compiler
-
-Lexer → Parser → IR → Assembly
-
-### C++ MMO
-
-Client/server multiplayer architecture
-with networking and a 2D world.
-
-### Distributed Load Balancer
-
-Fault-tolerant request distribution
-with health checking and failure recovery.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledabbassi92&show_icons=true)
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                         K H A L E D   A B B A S S I                ║
+║                                                                    ║
+║                         COMPUTER SCIENCE                           ║
+║                                                                    ║
+║              SYSTEMS  •  NETWORKING  •  BACKEND                   ║
+║                         • SECURITY                                 ║
+║                                                                    ║
+║                                                                    ║
+║     "THE OBJECTIVE IS NOT TO AVOID FAILURE.                       ║
+║      THE OBJECTIVE IS TO BUILD SYSTEMS THAT SURVIVE IT."          ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
