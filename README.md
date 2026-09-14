@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff0000&style=for-the-badge&label=OPERATIONAL+UPLINKS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=khaledabbassi92&color=ff0000&style=for-the-badge&label=OPERATIONAL+UPLINKS" alt="Profile Views" />
 </p>
 
 </div>
