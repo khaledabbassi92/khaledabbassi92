@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,25:070707,55:1c0000,80:680000,100:9b0000&height=300&section=header&text=KHALED%20ABBASSI&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20SYSTEMS&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,25:070707,50:160000,75:650000,100:9b0000&height=310&section=header&text=KHALED%20ABBASSI&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=57&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<h2>BUILD SOFTWARE. UNDERSTAND SYSTEMS. ENGINEER WITH INTENT.</h2>
+<h2>BUILD SOFTWARE. STRESS SYSTEMS. REFINE THE ENGINEERING.</h2>
 
 <br>
 
 <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
-<img src="https://img.shields.io/badge/SYSTEMS-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
-<img src="https://img.shields.io/badge/NETWORKING-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
+<img src="https://img.shields.io/badge/SYSTEMS-050505?style=for-the-badge&labelColor=050505&color=9b0000"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
+<img src="https://img.shields.io/badge/ENGINEERING-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,java,python,js,linux,git,docker,postgresql"/>
+<img src="https://skillicons.dev/icons?i=cpp,rust,java,python,react,linux,git,docker,postgresql"/>
 
 </div>
 
@@ -26,40 +26,34 @@
 <table>
 <tr>
 
-<td width="68%" valign="middle" align="left" style="background:#070707;border:1px solid #6f0000;padding:32px">
+<td width="67%" valign="middle" align="left" style="background:#070707;border:1px solid #700000;padding:34px">
 
-<h1>KHALED ABBASSI</h1>
+<h1>ENGINEERING PROFILE</h1>
 
-<h3>Computer Science · Software Engineering · Systems</h3>
+<h3>Computer Science Graduate · Software Engineering · Systems</h3>
 
 <br>
 
-I am a Computer Science student focused on understanding
-how software is designed, implemented, connected and
-turned into larger systems.
+I am a Computer Science graduate interested in understanding
+how software behaves beyond the level of individual functions.
 
 <br><br>
 
-My interests sit around:
+My work focuses on building software, understanding its
+architecture, stressing its limits, investigating failures,
+and refining the system until the design becomes clearer.
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SYSTEMS-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/STRESS%20TESTING-9b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/REFINEMENT-8b0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/NETWORKING-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/BACKEND-8b0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/ARCHITECTURE-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED%20SOFTWARE-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/SECURITY-8b0000?style=flat-square"/>
-
-<br><br>
-
-I am particularly interested in the boundary between
-software and the systems that execute, communicate,
-store and scale it.
 
 </td>
 
-<td width="32%" align="center" style="background:#050505;border:1px solid #6f0000;padding:20px">
+<td width="33%" align="center" style="background:#050505;border:1px solid #700000;padding:20px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=khaledabbassi92&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=aaaaaa&icon_color=9b0000&rank_icon=github"/>
 
@@ -72,71 +66,67 @@ store and scale it.
 
 <br>
 
+<h2 align="center">CREDENTIALS</h2>
+
+<br>
+
 <div align="center">
 
 <table>
 <tr>
 
-<td width="25%" align="center" style="background:#080808;border:1px solid #333333;padding:26px">
+<td width="50%" align="center" style="background:#080808;border:1px solid #8b0000;padding:32px">
 
-<img src="https://skillicons.dev/icons?i=cpp,rust" width="72"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/graduation-cap.png" width="52"/>
 
-<h3>PROGRAMMING</h3>
+<h2>COMPUTER SCIENCE</h2>
+
+<h3>Licence en Sciences Informatiques</h3>
 
 <sub>
-Algorithms<br>
-Data Structures<br>
-Memory<br>
-Object Design<br>
-Problem Solving
+Institut Supérieur d'Informatique<br>
+et de Gestion de Kairouan
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DEGREE-COMPLETED-ffffff?style=for-the-badge&labelColor=050505&color=8b0000"/>
+
+<br><br>
+
+<sub>
+Computer Science foundations with emphasis on
+programming, software development, systems,
+networking, databases and engineering concepts.
 </sub>
 
 </td>
 
-<td width="25%" align="center" style="background:#080808;border:1px solid #333333;padding:26px">
+<td width="50%" align="center" style="background:#080808;border:1px solid #8b0000;padding:32px">
 
-<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/security-checked.png" width="52"/>
 
-<h3>SYSTEMS</h3>
+<h2>CYBERSECURITY</h2>
+
+<h3>Security Training & Certification</h3>
 
 <sub>
-Processes<br>
-Concurrency<br>
-Execution<br>
-Operating Systems<br>
-Performance
+Cybersecurity foundations<br>
+Network security<br>
+System security<br>
+Security analysis
 </sub>
 
-</td>
+<br><br>
 
-<td width="25%" align="center" style="background:#080808;border:1px solid #333333;padding:26px">
+<img src="https://img.shields.io/badge/CYBERSECURITY-8b0000?style=for-the-badge&labelColor=050505&color=8b0000"/>
 
-<img src="https://skillicons.dev/icons?i=postgresql" width="55"/>
-
-<h3>DATA</h3>
+<br><br>
 
 <sub>
-Databases<br>
-Persistence<br>
-Data Modeling<br>
-Backend Systems<br>
-Storage
-</sub>
-
-</td>
-
-<td width="25%" align="center" style="background:#080808;border:1px solid #333333;padding:26px">
-
-<img src="https://skillicons.dev/icons?i=docker,git" width="75"/>
-
-<h3>ENGINEERING</h3>
-
-<sub>
-Architecture<br>
-APIs<br>
-Deployment<br>
-Infrastructure<br>
-Maintainability
+Security is treated as part of system engineering:
+understanding attack surfaces, network behavior,
+application boundaries and system hardening.
 </sub>
 
 </td>
@@ -148,7 +138,7 @@ Maintainability
 
 <br>
 
-<h2 align="center">ENGINEERING INTERESTS</h2>
+<h2 align="center">CORE STACK</h2>
 
 <br>
 
@@ -157,61 +147,174 @@ Maintainability
 <table>
 <tr>
 
-<td width="33%" align="center" style="background:#070707;border:1px solid #650000;padding:30px">
+<td width="25%" align="center" style="background:#070707;border:1px solid #700000;padding:28px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/server.png" width="52"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+
+<h2>C++</h2>
+
+<sub>
+Systems<br>
+Networking<br>
+Real-Time Software<br>
+Performance
+</sub>
+
+</td>
+
+<td width="25%" align="center" style="background:#070707;border:1px solid #700000;padding:28px">
+
+<img src="https://skillicons.dev/icons?i=rust" width="55"/>
+
+<h2>RUST</h2>
+
+<sub>
+Systems Programming<br>
+Memory Safety<br>
+Program Representation<br>
+Low-Level Computing
+</sub>
+
+</td>
+
+<td width="25%" align="center" style="background:#070707;border:1px solid #700000;padding:28px">
+
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+
+<h2>JAVA</h2>
+
+<sub>
+Backend Software<br>
+Application Architecture<br>
+Object-Oriented Design<br>
+Server Applications
+</sub>
+
+</td>
+
+<td width="25%" align="center" style="background:#070707;border:1px solid #700000;padding:28px">
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+<h2>PYTHON</h2>
+
+<sub>
+Automation<br>
+Backend Development<br>
+Tooling<br>
+Technical Prototyping
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center" style="background:#090909;border:1px solid #444444;padding:25px">
+
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+
+<h3>JSX / REACT</h3>
+
+<sub>
+Frontend Engineering · Interfaces ·
+Component Architecture · Production Web
+</sub>
+
+</td>
+
+<td width="50%" align="center" style="background:#090909;border:1px solid #444444;padding:25px">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git" width="110"/>
+
+<h3>SYSTEM TOOLING</h3>
+
+<sub>
+Linux · Git · Docker · APIs · Databases · Deployment
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<h2 align="center">SYSTEMS IS THE CENTER OF GRAVITY</h2>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center" style="background:#060606;border:2px solid #8b0000;padding:32px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/server.png" width="58"/>
 
 <h2>SYSTEMS</h2>
 
 <br>
 
 <sub>
-Processes<br>
-Memory<br>
-Concurrency<br>
-Execution<br>
-Operating Systems<br>
-Runtime Behavior<br>
+Processes<br><br>
+Memory<br><br>
+Concurrency<br><br>
+Execution<br><br>
+Operating Systems<br><br>
+Runtime Behavior<br><br>
 Performance
 </sub>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/CORE%20INTEREST-9b0000?style=for-the-badge&labelColor=050505&color=9b0000"/>
+
 </td>
 
-<td width="33%" align="center" style="background:#070707;border:1px solid #650000;padding:30px">
+<td width="33%" align="center" style="background:#060606;border:1px solid #650000;padding:32px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/network.png" width="52"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/network.png" width="58"/>
 
 <h2>NETWORKING</h2>
 
 <br>
 
 <sub>
-Protocols<br>
-Sockets<br>
-Client / Server<br>
-State Synchronization<br>
-Latency<br>
-Distributed Communication<br>
+Protocols<br><br>
+Sockets<br><br>
+Client / Server<br><br>
+State Synchronization<br><br>
+Latency<br><br>
+Distributed Communication<br><br>
 Failure
 </sub>
 
 </td>
 
-<td width="33%" align="center" style="background:#070707;border:1px solid #650000;padding:30px">
+<td width="33%" align="center" style="background:#060606;border:1px solid #650000;padding:32px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/architecture.png" width="52"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/layers.png" width="58"/>
 
 <h2>ARCHITECTURE</h2>
 
 <br>
 
 <sub>
-Boundaries<br>
-Interfaces<br>
-Services<br>
-Dependencies<br>
-Scalability<br>
-Fault Handling<br>
+Boundaries<br><br>
+Interfaces<br><br>
+Services<br><br>
+Dependencies<br><br>
+Scalability<br><br>
+Fault Handling<br><br>
 Maintainability
 </sub>
 
@@ -224,56 +327,7 @@ Maintainability
 
 <br>
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center" style="background:#090909;border:1px solid #333333;padding:28px">
-
-<img src="https://img.icons8.com/ios-filled/100/ffffff/code.png" width="48"/>
-
-<h2>COMPUTING</h2>
-
-<br>
-
-<sub>
-Program Representation<br>
-Parsing<br>
-Data Flow<br>
-Execution Models<br>
-Runtime Concepts<br>
-Machine Interaction
-</sub>
-
-</td>
-
-<td width="50%" align="center" style="background:#090909;border:1px solid #333333;padding:28px">
-
-<img src="https://img.icons8.com/ios-filled/100/ffffff/security-checked.png" width="48"/>
-
-<h2>SECURITY</h2>
-
-<br>
-
-<sub>
-Secure Design<br>
-Network Security<br>
-Application Security<br>
-System Hardening<br>
-Security Analysis
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<h2 align="center">HOW I APPROACH ENGINEERING</h2>
+<h2 align="center">THE ENGINEERING LOOP</h2>
 
 <br>
 
@@ -282,27 +336,23 @@ Security Analysis
 <table>
 <tr>
 
-<td align="center" width="20%" style="background:#070707;border:1px solid #5c0000;padding:24px">
+<td width="20%" align="center" style="background:#080808;border:1px solid #444;padding:25px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/search--v1.png" width="42"/>
-
-<br><br>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/search--v1.png" width="44"/>
 
 <h3>UNDERSTAND</h3>
 
 <sub>
 Requirements<br>
 Constraints<br>
-Existing behavior
+Behavior
 </sub>
 
 </td>
 
-<td align="center" width="20%" style="background:#070707;border:1px solid #5c0000;padding:24px">
+<td width="20%" align="center" style="background:#080808;border:1px solid #444;padding:25px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/engineering.png" width="42"/>
-
-<br><br>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/engineering.png" width="44"/>
 
 <h3>DESIGN</h3>
 
@@ -314,43 +364,41 @@ Data Flow
 
 </td>
 
-<td align="center" width="20%" style="background:#070707;border:1px solid #5c0000;padding:24px">
+<td width="20%" align="center" style="background:#080808;border:1px solid #650000;padding:25px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/code.png" width="42"/>
-
-<br><br>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/code.png" width="44"/>
 
 <h3>BUILD</h3>
 
 <sub>
-Code<br>
+Software<br>
 Components<br>
 Services
 </sub>
 
 </td>
 
-<td align="center" width="20%" style="background:#070707;border:1px solid #5c0000;padding:24px">
+<td width="20%" align="center" style="background:#090000;border:2px solid #9b0000;padding:25px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/combo-chart.png" width="42"/>
-
-<br><br>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/combo-chart.png" width="44"/>
 
 <h3>STRESS</h3>
 
 <sub>
 Load<br>
-Failures<br>
+Failure<br>
 Edge Cases
 </sub>
 
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-9b0000?style=flat-square&labelColor=050505&color=9b0000"/>
+
 </td>
 
-<td align="center" width="20%" style="background:#070707;border:1px solid #5c0000;padding:24px">
+<td width="20%" align="center" style="background:#090000;border:2px solid #9b0000;padding:25px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/refresh.png" width="42"/>
-
-<br><br>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/refresh.png" width="44"/>
 
 <h3>REFINE</h3>
 
@@ -359,6 +407,10 @@ Measure<br>
 Analyze<br>
 Rebuild
 </sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/REPEAT-9b0000?style=flat-square&labelColor=050505&color=9b0000"/>
 
 </td>
 
@@ -374,7 +426,76 @@ Rebuild
 <table>
 <tr>
 
-<td align="center" width="100%" style="background:#080808;border:1px solid #8b0000;padding:38px">
+<td width="50%" align="center" style="background:#080808;border:1px solid #8b0000;padding:35px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/combo-chart.png" width="50"/>
+
+<h1>STRESS TESTING</h1>
+
+<br>
+
+<sub>
+I want to know where software stops behaving
+the way I expect it to.
+
+<br><br>
+
+Load.<br>
+Concurrency.<br>
+Failure.<br>
+Unexpected input.<br>
+Network conditions.<br>
+Resource constraints.
+
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BREAK%20THE%20ASSUMPTION-8b0000?style=for-the-badge&labelColor=050505&color=9b0000"/>
+
+</td>
+
+<td width="50%" align="center" style="background:#080808;border:1px solid #8b0000;padding:35px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/refresh.png" width="50"/>
+
+<h1>REFINEMENT</h1>
+
+<br>
+
+<sub>
+A working system is only the beginning.
+
+<br><br>
+
+Measure the behavior.<br>
+Find the bottleneck.<br>
+Understand the failure.<br>
+Improve the boundary.<br>
+Simplify the design.<br>
+Test it again.
+
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MAKE%20IT%20BETTER-8b0000?style=for-the-badge&labelColor=050505&color=9b0000"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="100%" align="center" style="background:#070707;border:1px solid #9b0000;padding:40px">
 
 <h1>FAILURE IS INFORMATION.</h1>
 
@@ -393,11 +514,7 @@ A scaling problem exposes an architectural decision.
 <br><br>
 
 <h3>
-The objective is not simply to make software work.
-</h3>
-
-<h3>
-The objective is to understand why it works.
+Every failure gives the system something to teach me.
 </h3>
 
 </td>
@@ -409,7 +526,7 @@ The objective is to understand why it works.
 
 <br>
 
-<h2 align="center">SELECTED PROJECTS</h2>
+<h2 align="center">SELECTED ENGINEERING WORK</h2>
 
 <br>
 
@@ -422,7 +539,7 @@ The objective is to understand why it works.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,opengl" width="100"/>
+<img src="https://skillicons.dev/icons?i=cpp,opengl" width="105"/>
 
 <h2>NETWORKED WORLD</h2>
 
@@ -435,12 +552,12 @@ The objective is to understand why it works.
 <br>
 
 A C++ real-time application exploring the architecture
-of a networked world and the separation between
-presentation, world state and server-side behavior.
+of a networked world and the relationship between
+client presentation, world state and server behavior.
 
 <br><br>
 
-<b>Explores</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
@@ -448,7 +565,7 @@ Client architecture<br>
 World representation<br>
 Player state<br>
 Networking<br>
-Real-time synchronization<br>
+Synchronization<br>
 Entity-oriented design
 
 </td>
@@ -469,13 +586,13 @@ Entity-oriented design
 
 <br>
 
-A systems-oriented backend project exploring what
-happens when requests, traffic and failures are
-distributed across multiple components.
+A systems-oriented backend project exploring
+request distribution, service boundaries and
+behavior under failure and increasing load.
 
 <br><br>
 
-<b>Explores</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
@@ -483,8 +600,8 @@ Request routing<br>
 Load distribution<br>
 Service boundaries<br>
 Failure handling<br>
-System resilience<br>
-Performance considerations
+Resilience<br>
+Performance
 
 </td>
 
@@ -508,13 +625,14 @@ Performance considerations
 
 <br>
 
-Exploring the relationship between structured software,
-program representation, execution and the underlying
-machine.
+Exploring how structured software is represented,
+processed and transformed toward execution,
+with attention to the boundary between programs
+and the machine.
 
 <br><br>
 
-<b>Explores</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
@@ -531,7 +649,7 @@ System interaction
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgresql,docker" width="155"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgresql,docker" width="160"/>
 
 <h2>PRODUCTION WEB SYSTEM</h2>
 
@@ -549,11 +667,11 @@ and production deployment.
 
 <br><br>
 
-<b>Explores</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
-Frontend architecture<br>
+JSX / React<br>
 REST APIs<br>
 Database integration<br>
 Administration<br>
@@ -570,7 +688,7 @@ Production behavior
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,postgresql" width="100"/>
+<img src="https://skillicons.dev/icons?i=java,postgresql" width="105"/>
 
 <h2>SERVER-SIDE SOFTWARE</h2>
 
@@ -582,13 +700,13 @@ Production behavior
 
 <br>
 
-Server-side projects exploring application state,
+Server-side software exploring application state,
 persistence, request handling and the relationship
 between application logic and stored data.
 
 <br><br>
 
-<b>Explores</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
@@ -604,31 +722,32 @@ Server behavior
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,docker" width="120"/>
+<img src="https://skillicons.dev/icons?i=python,linux,git" width="120"/>
 
 <h2>ENGINEERING EXPERIMENTS</h2>
 
+<img src="https://img.shields.io/badge/PYTHON-8b0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/EXPERIMENTATION-8b0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/ANALYSIS-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROTOTYPING-8b0000?style=flat-square"/>
 
 </div>
 
 <br>
 
-Smaller projects and technical experiments used
-to investigate specific concepts, test assumptions
-and turn theory into working software.
+Technical experiments used to investigate concepts,
+test assumptions, automate workflows and turn
+theoretical ideas into working software.
 
 <br><br>
 
-<b>Explores</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
+Automation<br>
 Algorithms<br>
 Networking<br>
-Automation<br>
+Tooling<br>
 System behavior<br>
 Technical experimentation
 
@@ -641,7 +760,7 @@ Technical experimentation
 
 <br>
 
-<h2 align="center">TECHNOLOGY STACK</h2>
+<h2 align="center">COMPUTER SCIENCE FOUNDATION</h2>
 
 <br>
 
@@ -650,157 +769,51 @@ Technical experimentation
 <table>
 <tr>
 
-<td width="33%" align="center" style="background:#080808;border:1px solid #333333;padding:28px">
+<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:24px">
 
-<h2>LANGUAGES</h2>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=cpp,rust,java,python,js"/>
-
-<br><br>
+<h3>PROGRAMMING</h3>
 
 <sub>
-C++ · Rust · Java<br>
-Python · JavaScript
+Algorithms<br>
+Data Structures<br>
+Programming Paradigms<br>
+Problem Solving
 </sub>
 
 </td>
 
-<td width="33%" align="center" style="background:#080808;border:1px solid #333333;padding:28px">
-
-<h2>SYSTEMS</h2>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git"/>
-
-<br><br>
-
-<sub>
-Linux · Git · Docker<br>
-Systems Development · Networking
-</sub>
-
-</td>
-
-<td width="33%" align="center" style="background:#080808;border:1px solid #333333;padding:28px">
-
-<h2>BACKEND & DATA</h2>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgresql"/>
-
-<br><br>
-
-<sub>
-Node.js · REST APIs<br>
-PostgreSQL · SQL · Persistence
-</sub>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" style="background:#080808;border:1px solid #333333;padding:28px">
-
-<h2>APPLICATIONS</h2>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SDL3-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenGL-111111?style=for-the-badge"/>
-
-</td>
-
-<td width="33%" align="center" style="background:#080808;border:1px solid #333333;padding:28px">
-
-<h2>ENGINEERING</h2>
-
-<br>
-
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLIENT%20%2F%20SERVER-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED%20SOFTWARE-111111?style=for-the-badge"/>
-
-</td>
-
-<td width="33%" align="center" style="background:#080808;border:1px solid #333333;padding:28px">
-
-<h2>WORKFLOW</h2>
-
-<br>
-
-<img src="https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<h2 align="center">FOUNDATIONS</h2>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:22px">
-
-<h3>ALGORITHMS</h3>
-
-<sub>
-Problem Solving<br>
-Complexity<br>
-Data Structures
-</sub>
-
-</td>
-
-<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:22px">
+<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:24px">
 
 <h3>SYSTEMS</h3>
 
 <sub>
 Processes<br>
 Memory<br>
-Concurrency
+Concurrency<br>
+Execution
 </sub>
 
 </td>
 
-<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:22px">
+<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:24px">
 
 <h3>NETWORKS</h3>
 
 <sub>
 Protocols<br>
 Sockets<br>
-Communication
+Communication<br>
+Distributed Behavior
 </sub>
 
 </td>
 
-<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:22px">
+<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:24px">
 
-<h3>DATABASES</h3>
+<h3>DATA</h3>
 
 <sub>
+Databases<br>
 SQL<br>
 Persistence<br>
 Data Modeling
@@ -808,12 +821,13 @@ Data Modeling
 
 </td>
 
-<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:22px">
+<td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:24px">
 
 <h3>ENGINEERING</h3>
 
 <sub>
 Architecture<br>
+Software Design<br>
 Testing<br>
 Maintainability
 </sub>
@@ -827,7 +841,7 @@ Maintainability
 
 <br>
 
-<h2 align="center">CURRENT DIRECTION</h2>
+<h2 align="center">CYBERSECURITY DIRECTION</h2>
 
 <br>
 
@@ -836,9 +850,85 @@ Maintainability
 <table>
 <tr>
 
-<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:28px">
+<td width="25%" align="center" style="background:#070707;border:1px solid #650000;padding:27px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/network-security.png" width="48"/>
+
+<h3>NETWORK</h3>
+
+<sub>
+Protocols<br>
+Traffic<br>
+Network Security<br>
+Attack Surface
+</sub>
+
+</td>
+
+<td width="25%" align="center" style="background:#070707;border:1px solid #650000;padding:27px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/bug.png" width="48"/>
+
+<h3>APPLICATION</h3>
+
+<sub>
+APIs<br>
+Authentication<br>
+Input Handling<br>
+Secure Design
+</sub>
+
+</td>
+
+<td width="25%" align="center" style="background:#070707;border:1px solid #650000;padding:27px">
 
 <img src="https://img.icons8.com/ios-filled/100/ffffff/server.png" width="48"/>
+
+<h3>SYSTEM</h3>
+
+<sub>
+Hardening<br>
+Permissions<br>
+Services<br>
+System Security
+</sub>
+
+</td>
+
+<td width="25%" align="center" style="background:#070707;border:1px solid #650000;padding:27px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/security-checked.png" width="48"/>
+
+<h3>ANALYSIS</h3>
+
+<sub>
+Threats<br>
+Vulnerabilities<br>
+Security Testing<br>
+Risk Awareness
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<h2 align="center">CURRENT ENGINEERING DIRECTION</h2>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center" style="background:#060606;border:2px solid #8b0000;padding:30px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/server.png" width="50"/>
 
 <h3>SYSTEMS</h3>
 
@@ -849,11 +939,15 @@ Runtime Behavior<br>
 Performance
 </sub>
 
+<br>
+
+<img src="https://img.shields.io/badge/PRIMARY-9b0000?style=for-the-badge&labelColor=050505&color=9b0000"/>
+
 </td>
 
-<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:28px">
+<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:30px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/network.png" width="48"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/network.png" width="50"/>
 
 <h3>DISTRIBUTED</h3>
 
@@ -866,9 +960,9 @@ Resilience
 
 </td>
 
-<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:28px">
+<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:30px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/layers.png" width="48"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/layers.png" width="50"/>
 
 <h3>ARCHITECTURE</h3>
 
@@ -881,9 +975,9 @@ Scalability
 
 </td>
 
-<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:28px">
+<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:30px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/security-checked.png" width="48"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/security-checked.png" width="50"/>
 
 <h3>SECURITY</h3>
 
@@ -908,29 +1002,30 @@ Analysis
 <table>
 <tr>
 
-<td width="100%" align="center" style="background:#050505;border:1px solid #9b0000;padding:42px">
+<td width="100%" align="center" style="background:#050505;border:1px solid #9b0000;padding:45px">
 
-<h1>THE OBJECTIVE</h1>
-
-<br>
-
-<h2>BUILD THINGS DIFFICULT ENOUGH TO TEACH ME.</h2>
+<h1>BUILD THINGS DIFFICULT ENOUGH TO TEACH ME.</h1>
 
 <br>
 
 <sub>
-Not simply more code.<br><br>
-More understanding.<br><br>
-More control.<br><br>
-Better engineering.
+I do not want projects that only demonstrate that I can write code.
+</sub>
+
+<br><br>
+
+<sub>
+I want projects that force me to understand architecture,
+state, communication, failure, performance and the behavior
+of the system underneath the abstraction.
 </sub>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/LEARN-8b0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BUILD-8b0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MEASURE-8b0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REBUILD-8b0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STRESS-9b0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REFINE-9b0000?style=for-the-badge"/>
 
 </td>
 
@@ -946,35 +1041,44 @@ Better engineering.
 <table>
 <tr>
 
-<td width="33%" align="center" style="background:#070707;border:1px solid #333333;padding:24px">
+<td width="33%" align="center" style="background:#070707;border:1px solid #333333;padding:28px">
 
-<h3>LEARN</h3>
+<h2>LEARN</h2>
+
+<br>
 
 <sub>
-Study the underlying concept
-before hiding behind abstractions.
+Study the underlying concept.
+Understand the abstraction.
+Know what is happening underneath.
 </sub>
 
 </td>
 
-<td width="33%" align="center" style="background:#070707;border:1px solid #333333;padding:24px">
+<td width="33%" align="center" style="background:#070707;border:1px solid #333333;padding:28px">
 
-<h3>BUILD</h3>
+<h2>STRESS</h2>
+
+<br>
 
 <sub>
-Turn concepts into working
-software and real systems.
+Push the implementation.
+Find the boundary.
+Expose the assumptions.
 </sub>
 
 </td>
 
-<td width="33%" align="center" style="background:#070707;border:1px solid #333333;padding:24px">
+<td width="33%" align="center" style="background:#070707;border:1px solid #333333;padding:28px">
 
-<h3>UNDERSTAND</h3>
+<h2>REFINE</h2>
+
+<br>
 
 <sub>
-Investigate behavior until the
-system makes sense from within.
+Measure the behavior.
+Understand the failure.
+Build the better version.
 </sub>
 
 </td>
@@ -1001,11 +1105,18 @@ system makes sense from within.
 <br>
 
 <samp>
-<strong>ENGINEERING IS THE DIRECTION.</strong>
+<strong>STRESS REVEALS THE DESIGN.</strong>
+</samp>
+
+<br>
+
+<samp>
+<strong>REFINEMENT BUILDS THE ENGINEER.</strong>
 </samp>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b0000,35:650000,65:1c0000,100:050505&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b0000,30:650000,60:1c0000,100:050505&height=160&section=footer"/>
 
 </div>
+```
