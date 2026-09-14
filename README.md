@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:2b0000,100:7a0000&height=220&section=header&text=KHALED%20ABBASSI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20%20%E2%80%A2%20%20NETWORKING%20%20%E2%80%A2%20%20BACKEND%20%20%E2%80%A2%20%20SECURITY&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,50:180000,100:520000&text=KHALED%20ABBASSI&fontColor=ffffff&fontSize=52&animation=fadeIn&stroke=8B0000&strokeWidth=1"/>
 
-# ⚔️ THE WAR NEVER ENDS
+# ⚔️ `BEYOND THE LIMIT`
 
-### `PUSH THE LIMITS. BREAK THE SYSTEM. UNDERSTAND WHY. BUILD IT BETTER.`
+### `SYSTEMS • NETWORKING • BACKEND • SECURITY`
 
 <br>
 
-![Systems](https://img.shields.io/badge/SYSTEMS-ENGINEERING-8B0000?style=for-the-badge)
-![Networking](https://img.shields.io/badge/NETWORKING-COMBAT-550000?style=for-the-badge)
-![Security](https://img.shields.io/badge/SECURITY-DEFENSE-300000?style=for-the-badge)
-![Backend](https://img.shields.io/badge/BACKEND-INFRASTRUCTURE-111111?style=for-the-badge)
+> **THE LIMIT IS NOT THE END.**  
+> **IT IS THE NEXT OBJECTIVE.**
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEMS-ENGINEERING-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORKING-INFRASTRUCTURE-550000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-DEFENSE-300000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND-DISTRIBUTED-111111?style=for-the-badge"/>
 
 </div>
 
@@ -20,15 +25,20 @@
 ```text
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
-║                         K H A L E D   A B B A S S I                ║
+║                       FIELD DOSSIER // 01                         ║
 ║                                                                    ║
-║                         COMPUTER SCIENCE                           ║
+║  OPERATIVE       : KHALED ABBASSI                                ║
+║  DOMAIN          : COMPUTER SCIENCE                              ║
+║  SPECIALIZATION  : SYSTEMS ENGINEERING                            ║
 ║                                                                    ║
-║              SYSTEMS  •  NETWORKING  •  BACKEND                   ║
-║                         • SECURITY                                 ║
+║  PRIMARY FOCUS   :                                                ║
+║                    SYSTEMS                                       ║
+║                    NETWORKING                                    ║
+║                    DISTRIBUTED SYSTEMS                            ║
+║                    BACKEND                                       ║
+║                    CYBERSECURITY                                 ║
+║                    COMPILER ENGINEERING                          ║
 ║                                                                    ║
-║                                                                    ║
-║     "THE OBJECTIVE IS NOT TO AVOID FAILURE.                       ║
-║      THE OBJECTIVE IS TO BUILD SYSTEMS THAT SURVIVE IT."          ║
+║  STATUS          : ████████████████████████████████  ACTIVE       ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
