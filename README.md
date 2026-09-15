@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,25:070707,50:160000,75:650000,100:9b0000&height=310&section=header&text=KHALED%20ABBASSI&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20LOW-LEVEL%20ENGINEERING&descAlignY=57&descSize=17&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,25:070707,50:160000,75:650000,100:9b0000&height=310&section=header&text=KHALED%20ABBASSI&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20SY0-701%20%E2%80%A2%20SYSTEMS%20ARCHITECT&descAlignY=57&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<h2>BUILD SYSTEMS. MASTER MEMORY. STRESS THE RUNTIME.</h2>
+<h2>BUILD SYSTEMS. HARDEN SECURITY. MASTER THE RUNTIME.</h2>
 
 <br>
 
 <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
-<img src="https://img.shields.io/badge/SYSTEMS%20ENGINEERING-050505?style=for-the-badge&labelColor=050505&color=9b0000"/>
-<img src="https://img.shields.io/badge/LOW_LEVEL-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
-<img src="https://img.shields.io/badge/CONCURRENCY-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
+<img src="https://img.shields.io/badge/SY0--701%20SECURITY-050505?style=for-the-badge&labelColor=050505&color=9b0000"/>
+<img src="https://img.shields.io/badge/SYSTEMS%20%26%20BACKEND-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
+<img src="https://img.shields.io/badge/NETWORKING-050505?style=for-the-badge&labelColor=050505&color=8b0000"/>
 
 <br><br>
 
@@ -30,23 +30,22 @@
 
 <h1>ENGINEERING PROFILE</h1>
 
-<h3>Computer Science License · Systems & Low-Level Architecture</h3>
+<h3>Computer Science License · SY0-701 Security Certified · Systems & Backend</h3>
 
 <br>
 
-I am a Computer Science graduate focused on systems engineering, memory models, runtime execution, and bare-metal performance characteristics. 
+I am a Computer Science graduate and certified security practitioner focused on low-level systems, high-performance backend architectures, network protocols, and secure engineering paradigms.
 
 <br><br>
 
-My work explores how software interfaces directly with hardware primitives, managing threads, memory safety, network wire protocols, and high-concurrency state synchronization.
+My work bridges systems programming (C++/Rust) with robust backend services (Java/Python) and production frontend capability (React), backed by rigorous threat awareness (SY0-701).
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C++%2FRUST-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MEMORY%20MANAGEMENT-9b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/CONCURRENCY-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SYSTEMS%20%26%20BACKEND-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SY0--701%20SECURITY-9b0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/NETWORKING-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED_STATE-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/REACT%20FRONTEND-8b0000?style=flat-square"/>
 
 </td>
 
@@ -101,26 +100,26 @@ Rigorous foundation in computer architecture, operating systems, data structures
 
 <img src="https://img.icons8.com/ios-filled/100/ffffff/security-checked.png" width="52"/>
 
-<h2>SYSTEMS SECURITY</h2>
+<h2>COMPTIA SECURITY+</h2>
 
-<h3>Security Training & Hardening</h3>
+<h3>SY0-701 Certified</h3>
 
 <sub>
-Memory safety paradigms<br>
-Network traffic auditing<br>
-Application attack surfaces<br>
-OS-level isolation<br>
-Threat mitigation
+Threat management & mitigation<br>
+Architecture & secure design<br>
+Security operations & hardening<br>
+Identity & access management<br>
+Risk analysis & compliance
 </sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SECURITY%20ENG-8b0000?style=for-the-badge&labelColor=050505&color=8b0000"/>
+<img src="https://img.shields.io/badge/SY0--701-CERTIFIED-8b0000?style=for-the-badge&labelColor=050505&color=8b0000"/>
 
 <br><br>
 
 <sub>
-Treating security as a constraint of systems design: mitigating race conditions, managing privilege boundaries, and protecting shared memory against exploitation.
+Security treated as an architectural requirement: defending network perimeters, analyzing threat surfaces, hardening OS boundaries, and writing secure, resilient code.
 </sub>
 
 </td>
@@ -148,10 +147,10 @@ Treating security as a constraint of systems design: mitigating race conditions,
 <h2>C++</h2>
 
 <sub>
-Systems<br>
-Performance<br>
-Memory Layout<br>
-Real-Time Code
+Systems Core<br>
+Memory Layouts<br>
+Low-Level Engines<br>
+Performance
 </sub>
 
 </td>
@@ -165,8 +164,8 @@ Real-Time Code
 <sub>
 Memory Safety<br>
 Ownership Model<br>
-Fearless Concurrency<br>
-Low-Level Control
+Safe Concurrency<br>
+Systems Control
 </sub>
 
 </td>
@@ -178,10 +177,10 @@ Low-Level Control
 <h2>JAVA</h2>
 
 <sub>
-JVM Internals<br>
-Multithreading<br>
 Backend Services<br>
-Enterprise Systems
+Enterprise APIs<br>
+JVM Concurrency<br>
+Robust Logic
 </sub>
 
 </td>
@@ -193,25 +192,25 @@ Enterprise Systems
 <h2>PYTHON</h2>
 
 <sub>
+Backend Scripting<br>
 Automation<br>
-Tooling Scripts<br>
-Stress Harnesses<br>
+Security Tooling<br>
 Prototyping
 </sub>
 
 </td>
 
-<td width="20%" align="center" style="background:#070707;border:1px solid #700000;padding:22px">
+<td width="20%" align="center" style="background:#070707;border:2px solid #8b0000;padding:22px">
 
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
 
 <h2>REACT</h2>
 
 <sub>
-UI State Engines<br>
-Client Rendering<br>
-Component Tree<br>
-Web Architecture
+Frontend UI<br>
+Component State<br>
+Web Architecture<br>
+Client Interfaces
 </sub>
 
 </td>
@@ -231,7 +230,7 @@ Web Architecture
 <h3>SYSTEM TOOLING & INFRASTRUCTURE</h3>
 
 <sub>
-Linux Kernel & Processes · Docker Containers · Git Version Control · Relational Databases (PostgreSQL) · TCP/UDP Networking
+Linux Kernels & Security Hardening · Docker Containers · Git Version Control · Relational Databases (PostgreSQL) · TCP/UDP Networking Protocols
 </sub>
 
 </td>
@@ -243,7 +242,7 @@ Linux Kernel & Processes · Docker Containers · Git Version Control · Relation
 
 <br>
 
-<h2 align="center">SYSTEMS ARCHITECTURE IS THE CENTER OF GRAVITY</h2>
+<h2 align="center">TECHNICAL DOMAINS</h2>
 
 <br>
 
@@ -252,67 +251,79 @@ Linux Kernel & Processes · Docker Containers · Git Version Control · Relation
 <table>
 <tr>
 
-<td width="33%" align="center" style="background:#060606;border:2px solid #8b0000;padding:32px">
+<td width="25%" align="center" style="background:#060606;border:2px solid #8b0000;padding:26px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/server.png" width="58"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/server.png" width="48"/>
 
-<h2>LOW-LEVEL SYSTEMS</h2>
-
-<br>
+<h2>SYSTEMS</h2>
 
 <sub>
-Memory Management<br><br>
-Pointers & References<br><br>
-Thread Synchronization<br><br>
-CPU Caches & Locality<br><br>
-Operating System Kernels<br><br>
-Resource Allocation<br><br>
-Zero-Cost Abstractions
+Memory Models<br>
+Concurrency<br>
+Runtime Execution<br>
+Low-Level C++ / Rust
 </sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CORE%20FOCUS-9b0000?style=for-the-badge&labelColor=050505&color=9b0000"/>
+<img src="https://img.shields.io/badge/CORE-9b0000?style=for-the-badge&labelColor=050505&color=9b0000"/>
 
 </td>
 
-<td width="33%" align="center" style="background:#060606;border:1px solid #650000;padding:32px">
+<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:26px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/network.png" width="58"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/database.png" width="48"/>
 
-<h2>NETWORK PROTOCOLS</h2>
-
-<br>
+<h2>BACKEND</h2>
 
 <sub>
-Raw Sockets<br><br>
-TCP/UDP Stack<br><br>
-State Serialization<br><br>
-Packet Bandwidth Culling<br><br>
-Spatial Partitioning<br><br>
-Latency Optimization<br><br>
-Distributed Synchronization
+Java Services<br>
+Python APIs<br>
+PostgreSQL Databases<br>
+Scalable Architecture
 </sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CORE-8b0000?style=for-the-badge&labelColor=050505&color=8b0000"/>
 
 </td>
 
-<td width="33%" align="center" style="background:#060606;border:1px solid #650000;padding:32px">
+<td width="25%" align="center" style="background:#060606;border:1px solid #650000;padding:26px">
 
-<img src="https://img.icons8.com/ios-filled/100/ffffff/layers.png" width="58"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/network.png" width="48"/>
 
-<h2>RUNTIME DESIGN</h2>
-
-<br>
+<h2>NETWORKING</h2>
 
 <sub>
-Execution Pipelines<br><br>
-Asynchronous IO<br><br>
-Component Lifecycles<br><br>
-Garbage Collection vs Ownership<br><br>
-Scalability Bottlenecks<br><br>
-Fault Tolerance<br><br>
-Determinism
+TCP/UDP Sockets<br>
+Wire Protocols<br>
+Spatial Streaming<br>
+State Synchronization
 </sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CORE-8b0000?style=for-the-badge&labelColor=050505&color=8b0000"/>
+
+</td>
+
+<td width="25%" align="center" style="background:#060606;border:2px solid #8b0000;padding:26px">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/security-checked.png" width="48"/>
+
+<h2>SECURITY</h2>
+
+<sub>
+SY0-701 Certified<br>
+Threat Mitigation<br>
+OS Hardening<br>
+Secure Code Design
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SY0--701-9b0000?style=for-the-badge&labelColor=050505&color=9b0000"/>
 
 </td>
 
@@ -323,7 +334,7 @@ Determinism
 
 <br>
 
-<h2 align="center">SELECTED ENGINEERING WORK</h2>
+<h2 align="center">SELECTED SYSTEMS & BACKEND PROJECTS</h2>
 
 <br>
 
@@ -338,29 +349,29 @@ Determinism
 
 <img src="https://skillicons.dev/icons?i=cpp,rust" width="100"/>
 
-<h2>MMO SERVER-AUTHORITATIVE ENGINE</h2>
+<h2>AUTHORITATIVE MMO CORE ENGINE</h2>
 
 <img src="https://img.shields.io/badge/C%2B%2B%2FRUST-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/NETWORKING-8b0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/SPATIAL_HASHING-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/AOI_STREAMING-8b0000?style=flat-square"/>
 
 </div>
 
 <br>
 
-A high-performance C++/Rust server engine implementing spatial partitioning (`std::unordered_map` with `ChunkCoord`) to eliminate $O(N^2)$ global broadcasts and enforce server-authoritative state.
+A high-performance server-authoritative engine implementing spatial hashing (`std::unordered_map` with `ChunkCoord`) to replace $O(N^2)$ global broadcasting with targeted AOI chunk streams.
 
 <br><br>
 
-<b>Systems Architecture Focus</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
-Spatial hashing & $O(1)$ grid lookups<br>
-Movement-driven chunk migration pipelines<br>
-Area of Interest (AOI) network bandwidth culling<br>
-Dormant chunk activation/sleeping states<br>
-Mitigation of global memory exploits and map hacks
+$O(1)$ grid coordinate lookups<br>
+Movement-triggered chunk migration pipeline<br>
+Network bandwidth culling & anti-cheat boundaries<br>
+Dormant chunk state sleeping for mob AI loops<br>
+Mitigation of global memory and map-hack vectors
 
 </td>
 
@@ -368,99 +379,99 @@ Mitigation of global memory exploits and map hacks
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,linux,docker" width="125"/>
+<img src="https://skillicons.dev/icons?i=java,postgresql" width="105"/>
 
-<h2>CONCURRENT DISTRIBUTED BACKEND</h2>
-
-<img src="https://img.shields.io/badge/SYSTEMS-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/CONCURRENCY-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/LOAD_BALANCING-8b0000?style=flat-square"/>
-
-</div>
-
-<br>
-
-A multi-threaded backend router designed to manage heavy request concurrency, isolate execution threads, and maintain low latency under extreme resource constraints.
-
-<br><br>
-
-<b>Systems Architecture Focus</b>
-
-<br><br>
-
-Thread pool worker dispatch<br>
-Socket connection multiplexing<br>
-Shared-memory protection primitives<br>
-Queue management under load<br>
-Kernel-level file descriptor polling
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top" style="background:#080808;border:1px solid #550000;padding:30px">
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,linux" width="95"/>
-
-<h2>LOW-LEVEL COMPILER & RUNTIME TOOLING</h2>
-
-<img src="https://img.shields.io/badge/RUST-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MEMORY_SAFETY-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/PARSING-8b0000?style=flat-square"/>
-
-</div>
-
-<br>
-
-Exploring syntax trees, lexical tokenization, and intermediate representations to bridge high-level program code directly down to machine execution semantics.
-
-<br><br>
-
-<b>Systems Architecture Focus</b>
-
-<br><br>
-
-Lexical analysis & grammar parsers<br>
-Abstract Syntax Tree (AST) traversal<br>
-Memory allocation strategies<br>
-Symbol table management<br>
-Instruction translation
-
-</td>
-
-<td width="50%" valign="top" style="background:#080808;border:1px solid #550000;padding:30px">
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,postgresql,docker" width="125"/>
-
-<h2>ENTERPRISE BACKEND ARCHITECTURE</h2>
+<h2>ENTERPRISE BACKEND SERVICE</h2>
 
 <img src="https://img.shields.io/badge/JAVA-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/JVM-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/BACKEND-8b0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/POSTGRESQL-8b0000?style=flat-square"/>
 
 </div>
 
 <br>
 
-Robust server-side software prioritizing transactional ACID consistency, efficient connection pooling, and low-overhead object lifecycle management.
+Robust server-side Java backend built for high-throughput request processing, secure authentication endpoints, connection pooling, and optimized PostgreSQL persistence.
 
 <br><br>
 
-<b>Systems Architecture Focus</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
-JVM garbage collection tuning<br>
-Database indexing & query execution plans<br>
-Connection pool management<br>
-Thread synchronization locks<br>
-Resilient service boundaries
+RESTful API architectural design<br>
+Database indexing & query optimization<br>
+JVM thread pool concurrency control<br>
+Input validation & secure data handling<br>
+Robust transactional integrity (ACID)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="background:#080808;border:1px solid #550000;padding:30px">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,python" width="105"/>
+
+<h2>FULL-STACK TELEMETRY DASHBOARD</h2>
+
+<img src="https://img.shields.io/badge/REACT-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/FULLSTACK-8b0000?style=flat-square"/>
+
+</div>
+
+<br>
+
+A complete full-stack solution featuring a lightweight Python system metrics ingestion daemon paired with a dynamic, responsive React frontend visualization interface.
+
+<br><br>
+
+<b>Engineering Focus</b>
+
+<br><br>
+
+React component state architecture<br>
+Real-time WebSockets telemetry stream<br>
+Python asynchronous backend processing<br>
+Client-side rendering optimization<br>
+System bottleneck visual telemetry
+
+</td>
+
+<td width="50%" valign="top" style="background:#080808;border:1px solid #550000;padding:30px">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,linux" width="100"/>
+
+<h2>HIGH-PERFORMANCE TCP/UDP ROUTER</h2>
+
+<img src="https://img.shields.io/badge/C%2B%2B-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/NETWORKING-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOCKETS-8b0000?style=flat-square"/>
+
+</div>
+
+<br>
+
+A low-latency socket communication router built in C++ for raw packet handling, non-blocking connection multiplexing, and memory-efficient message framing.
+
+<br><br>
+
+<b>Engineering Focus</b>
+
+<br><br>
+
+Raw socket descriptor polling<br>
+Non-blocking I/O event loops<br>
+Zero-copy buffer slicing techniques<br>
+Connection state machine design<br>
+Network traffic throughput profiling
 
 </td>
 
@@ -472,31 +483,31 @@ Resilient service boundaries
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,python" width="105"/>
+<img src="https://skillicons.dev/icons?i=rust,linux" width="95"/>
 
-<h2>SYSTEMS MONITORING DASHBOARD</h2>
+<h2>CUSTOM MEMORY POOL ALLOCATOR</h2>
 
-<img src="https://img.shields.io/badge/REACT-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/PYTHON-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/TELEMETRY-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/RUST-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SYSTEMS-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MEMORY-8b0000?style=flat-square"/>
 
 </div>
 
 <br>
 
-A full-stack diagnostic telemetry dashboard combining a Python metrics ingestion daemon with a responsive React visualization interface.
+A custom memory management library written in Rust implementing arena and chunk-based allocation strategies to eliminate heap fragmentation and maximize cache locality.
 
 <br><br>
 
-<b>Systems Architecture Focus</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
-Real-time websocket telemetry streaming<br>
-State management for high-frequency updates<br>
-Low-overhead metrics collection<br>
-Client-side render optimization<br>
-System bottleneck identification
+Arena allocation primitives<br>
+Cache-line alignment optimization<br>
+Lifetime tracking via ownership models<br>
+Bypassing OS allocator overhead<br>
+Deterministic deallocation tracking
 
 </td>
 
@@ -504,31 +515,31 @@ System bottleneck identification
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,git" width="120"/>
+<img src="https://skillicons.dev/icons?i=python,docker" width="100"/>
 
-<h2>STRESS-TESTING HARNESSES</h2>
+<h2>SECURITY AUDITING TOOLKIT</h2>
 
 <img src="https://img.shields.io/badge/PYTHON-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/LOAD_TESTING-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/BENCHMARKING-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SY0--701-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/AUTOMATION-8b0000?style=flat-square"/>
 
 </div>
 
 <br>
 
-Automated network load injectors and stress-testing scripts designed to flood socket servers, simulate connection drops, and measure memory leakage under duress.
+An automated security scanning and vulnerability analysis toolkit designed to audit network configurations, inspect open ports, and test application access controls.
 
 <br><br>
 
-<b>Systems Architecture Focus</b>
+<b>Engineering Focus</b>
 
 <br><br>
 
-Asynchronous request generation<br>
-Network saturation testing<br>
-Failure point detection<br>
-Execution profiling<br>
-Throughput benchmarking
+Vulnerability assessment scripts<br>
+Network port state enumeration<br>
+Access control verification<br>
+Security hardening compliance checks<br>
+Automated threat reporting
 
 </td>
 
@@ -563,7 +574,7 @@ Memory Efficiency
 
 <td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:24px">
 
-<h3>OS & KERNEL</h3>
+<h3>OS & SYSTEMS</h3>
 
 <sub>
 Process Management<br>
@@ -602,13 +613,13 @@ Persistence Layers
 
 <td width="20%" align="center" style="background:#070707;border:1px solid #3a3a3a;padding:24px">
 
-<h3>SYSTEMS DESIGN</h3>
+<h3>SECURITY</h3>
 
 <sub>
-Fault Tolerance<br>
-Scalability Limits<br>
-Security Hardening<br>
-Resource Constraints
+SY0-701 Standards<br>
+Threat Mitigation<br>
+System Hardening<br>
+Access Control
 </sub>
 
 </td>
@@ -627,26 +638,26 @@ Resource Constraints
 
 <td width="100%" align="center" style="background:#050505;border:1px solid #9b0000;padding:45px">
 
-<h1>STRESS THE RUNTIME. EXPOSE THE BOTTLENECK. REWRITE THE CORE.</h1>
+<h1>BUILD ROBUST BACKENDS. SECURE THE PERIMETER. MASTER THE SYSTEMS.</h1>
 
 <br>
 
 <sub>
-Software is only as robust as its underlying memory model and state architecture.
+Solid software requires clean backend architecture, secure design principles, and deep systems understanding.
 </sub>
 
 <br><br>
 
 <sub>
-I build low-level systems to force code to confront concurrency, network latency, resource saturation, and hardware limits head-on.
+Certified in SY0-701 security and proficient across low-level systems, backend services, network protocols, and modern React frontend interfaces.
 </sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CODE-8b0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROFILING-8b0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STRESS-9b0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPTIMIZE-9b0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEMS-8b0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND-8b0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORKING-9b0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SY0--701-9b0000?style=for-the-badge"/>
 
 </td>
 
@@ -660,25 +671,25 @@ I build low-level systems to force code to confront concurrency, network latency
 <div align="center">
 
 <samp>
-<strong>MEMORY IS OWNERSHIP.</strong>
+<strong>SYSTEMS ARE THE CORE.</strong>
 </samp>
 
 <br>
 
 <samp>
-<strong>CONCURRENCY IS SYNCHRONIZATION.</strong>
+<strong>BACKENDS ARE THE ENGINE.</strong>
 </samp>
 
 <br>
 
 <samp>
-<strong>NETWORKS ARE BOTTLENECKS.</strong>
+<strong>SECURITY IS THE BOUNDARY.</strong>
 </samp>
 
 <br>
 
 <samp>
-<strong>SYSTEMS ARE TRUTH.</strong>
+<strong>CODE IS THE MEDIUM.</strong>
 </samp>
 
 <br><br>
