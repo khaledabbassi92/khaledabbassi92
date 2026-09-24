@@ -126,16 +126,16 @@ Currently developing further security knowledge through professional certificati
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Computer Science
+### ☁️ Cloud Computing
 
-* Algorithms
-* Computer architecture
-* Operating systems
-* Databases
-* Software engineering
-* Networking
-
-</td>
+* Cloud infrastructure
+* Virtualization
+* Cloud networking
+* Distributed cloud services
+* Scalable infrastructure
+* Containerization
+* Hosting
+* Cloud security
 </tr>
 </table>
 
@@ -216,7 +216,6 @@ My goal is to continue developing from application-level development toward deep
 <img src="https://img.shields.io/badge/English-000000?style=flat-square">
 <img src="https://img.shields.io/badge/French-000000?style=flat-square">
 <img src="https://img.shields.io/badge/German-000000?style=flat-square">
-<img src="https://img.shields.io/badge/Italian-000000?style=flat-square">
 </p>
 
 ---
